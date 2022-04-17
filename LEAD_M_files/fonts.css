@@ -1,0 +1,62 @@
+@font-face {
+    font-family: 'Titillium Web';
+    src: url('fonts/TitilliumWeb-Regular.ttf'),
+    url('fonts/TitilliumWeb-Regular.ttf');
+    font-weight:  400;
+    font-style:   normal;
+    font-stretch: normal;
+}
+
+@font-face {
+    font-family: 'Titillium Web';
+    src: url('fonts/TitilliumWeb-Light.ttf'),
+    url('fonts/TitilliumWeb-Light.ttf');
+    font-weight:  300;
+    font-style:   normal;
+    font-stretch: normal;
+}
+
+@font-face {
+    font-family: 'Titillium Web';
+    src: url('fonts/TitilliumWeb-Bold.ttf'),
+    url('fonts/TitilliumWeb-Bold.ttf');
+    font-weight:  700;
+    font-style:   normal;
+    font-stretch: normal;
+}
+
+@font-face {
+    font-family: 'Titillium Web';
+    src: url('fonts/TitilliumWeb-SemiBold.ttf'),
+        url('fonts/TitilliumWeb-SemiBold.ttf');
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('fonts/Inter-Regular.ttf'),
+    url('fonts/Inter-Regular.ttf');
+    font-weight:  400;
+    font-style:   normal;
+    font-stretch: normal;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('fonts/Inter-Light.ttf'),
+    url('fonts/Inter-Light.ttf');
+    font-weight:  300;
+    font-style:   normal;
+    font-stretch: normal;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('fonts/Inter-Bold.ttf'),
+    url('fonts/Inter-Bold.ttf');
+    font-weight:  700;
+    font-style:   normal;
+    font-stretch: normal;
+}
